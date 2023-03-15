@@ -1,0 +1,15 @@
+*{
+    font-family: Roboto;
+
+}
+
+h1{
+    font-family: "JetBrains Mono";
+    color: rgb(120, 120, 25);
+}
+
+.fp{
+
+        font-style: italic;
+        font-weight: 500px;
+}

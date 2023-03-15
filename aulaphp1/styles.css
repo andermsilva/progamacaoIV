@@ -1,0 +1,21 @@
+
+*{
+    font-family: Arial;
+
+    
+}
+table{
+    border: 1px solid black;
+}
+th{
+    font-size: 20px;
+    font-family: 'Calibri';
+}
+
+td{
+    border-left: 1px solid black;
+    border-top:  1px solid black;
+    border-bottom: 1px solid black;
+    
+}
+
